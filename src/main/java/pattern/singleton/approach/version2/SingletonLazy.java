@@ -1,8 +1,8 @@
-package pattern.singleton.approach.better;
+package pattern.singleton.approach.version2;
 
 /**
  * Better Approach:
- * A better approach that an object should get create when it is required. So, we will create an object on the
+ * A version2 approach that an object should get create when it is required. So, we will create an object on the
  * first call and then will return the same object on other successive calls.
  *
  * Problem:

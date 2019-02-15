@@ -1,4 +1,4 @@
-package pattern.singleton.approach.bad;
+package pattern.singleton.approach.version1;
 
 /**
  * Bad Approach:
@@ -11,7 +11,7 @@ package pattern.singleton.approach.bad;
  * */
 public class SingletonEager {
 
-    //Providing a direct access to a class member is not a better idea, so using SingletonEar instead
+    //Providing a direct access to a class member is not a version2 idea, so using SingletonEar instead
     private static SingletonEager scr = new SingletonEager();
 
     //Keeping the constructor private, no other class can instantiate this class
