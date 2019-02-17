@@ -37,7 +37,7 @@ public class TestObserver {
 
         cObject.setDesc("It's another goal!");
         cObject.setDesc("Half-time score 2-0");
-
+                
     }
 }
 
