@@ -17,7 +17,6 @@ public class TestObserver {
         Observer observer1 = new SMSUser(subject, "Adam Warner [New York]");
         observer1.subscribe();
         System.out.println();
-
         Observer observer2 = new SMSUser(subject, "Tim Ronney[London]");
         observer2.subscribe();
 
@@ -37,7 +36,6 @@ public class TestObserver {
 
         cObject.setDesc("It's another goal!");
         cObject.setDesc("Half-time score 2-0");
-
     }
 }
 
