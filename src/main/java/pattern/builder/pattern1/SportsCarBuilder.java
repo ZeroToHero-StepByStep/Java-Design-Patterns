@@ -1,4 +1,4 @@
-package pattern.builder;
+package pattern.builder.pattern1;
 
 /**
  * Created by Jack on Feb 8:59 PM, 2019
