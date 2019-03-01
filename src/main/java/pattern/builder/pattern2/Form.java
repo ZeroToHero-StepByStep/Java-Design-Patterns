@@ -4,6 +4,11 @@ import java.util.Date;
 
 /**
  * Created by Jack on Feb 10:19 PM, 2019
+ *
+ * Use the Builder pattern when
+ * • The algorithm for creating a complex object should be independent of the parts that make up the object
+ * and how they're assembled.
+ * • The construction process must allow different representation for the object's constructed.
  **/
 public class Form {
 
